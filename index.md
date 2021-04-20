@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome a la WEB de R3pl1k4nt3
 
-You can use the [editor on GitHub](https://github.com/R3pl1k4nt3/R3pl1k4nt3.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta web es un test.
 
 ### Markdown
 
