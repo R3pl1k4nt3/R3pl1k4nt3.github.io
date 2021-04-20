@@ -1,9 +1,6 @@
 ## Welcome a la WEB de R3pl1k4nt3
 
-Esta web es un test.
-
-
-### EN ESTA WEB SE PONDRAN MISERIAS VARIAS
+Esta web es un test. (EN ESTA WEB SE PONDRAN MISERIAS VARIAS)
 
 
 ### Markdown
